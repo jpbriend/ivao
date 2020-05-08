@@ -22,18 +22,18 @@ permalink: /phraseologie/
 <div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
 **P**: [NICE PREVOL] bonjour, [  ] poste [  ], demandons mise en route pour Bordeaux Merignac, information Bravo
 
-**ATC: [  ], bonjour, mise en route approuvée, départ _SAU4Q_, piste _0 5_, niveau _140_, transpondeur _1000_.**
+**ATC: [  ], bonjour, mise en route approuvée, départ _SAU4Q_, niveau _140_, transpondeur _1000_.**
 
-**P**: Mise en route approuvée, départ _SAU4Q_, piste _0 5_, niveau _140_, transpondeur _1000_ [  ]
+**P**: Mise en route approuvée, départ _SAU4Q_, niveau _140_, transpondeur _1000_ [  ]
 
 **ATC: Correct, rappelez prêt pour le repoussage [sur _Merignac Sol 121.900_].**
 </div>
 <div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
 **P**: [NICE DELIVERY] hello, [  ] gate [  ], request startup to Bordeaux Merignac, Bravo information
 
-**ATC: [  ], hello, startup approved, _SAU4Q_ departure runway _0 5_, level _1 4 0_, SQUAWK _1000_.**
+**ATC: [  ], hello, startup approved, departure _SAU4Q_, level _1 4 0_, SQUAWK _1000_.**
 
-**P**: Startup approved, _SAU4Q_ departure runway _0 5_, level _1 4 0_, SQUAWK _1000_ [  ]
+**P**: Startup approved, departure _SAU4Q_ , level _1 4 0_, SQUAWK _1000_ [  ]
 
 **ATC: Correct, report ready for pushback [with _Merignac Ground 121,9_].**
 </div>
@@ -190,10 +190,10 @@ permalink: /phraseologie/
 </div>
 <div style="display: table-row; border:1px solid black;">
 <div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
-**ATC: [  ], transpondeur _7000_, sortie _W_ _1500_ pieds, roulez jusqu'au point d'attente _D_ piste _05_.**
+**ATC: [  ], transpondeur _7030_, sortie _W_ _1500_ pieds, roulez d'attente _D_ piste _05_.**
 </div>
 <div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
-**ATC: [  ], SQUAWK _7000_, exit _W_ _1500_ feet, taxi holding point _D_ runway _05_.**
+**ATC: [  ], SQUAWK _7030_, exit _W_ _1500_ feet, taxi holding point _D_ runway _05_.**
 </div>
 </div>
 </div>
@@ -211,10 +211,10 @@ permalink: /phraseologie/
 </div>
 <div style="display: table-row; border:1px solid black;">
 <div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
-**ATC: [  ], transpondeur _7000_, roulez jusqu'au point d'attente _D_ piste _05_.**
+**ATC: [  ], transpondeur _7030_, roulez point d'attente _D_ piste _05_.**
 </div>
 <div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
-**ATC: [  ], SQUAWK _7000_, taxi holding point _D_ runway _05_.**
+**ATC: [  ], SQUAWK _7030_, taxi holding point _D_ runway _05_.**
 </div>
 </div>
 </div>
