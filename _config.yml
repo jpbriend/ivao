@@ -27,15 +27,12 @@ theme: minima
 #theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
-  - jekyll-analytics
-
+  
 header_pages:
   - phraseologie.md
   - about.md
 
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-54690246-2
+google_analytics: UA-54690246-2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
