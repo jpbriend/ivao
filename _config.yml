@@ -27,6 +27,7 @@ theme: minima
 #theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   
 header_pages:
   - phraseologie.md
