@@ -219,6 +219,27 @@ permalink: /phraseologie/
 </div>
 </div>
 
+### Rouler vers le parking
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], roulez aerogare _2_ poste _E7_.**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], taxi terminal _2_ stand _E7_.**
+</div>
+</div>
+</div>
+
 ## Phraséologie au poste Tour (TWR)
 
 ### Clairance VFR
@@ -273,6 +294,161 @@ permalink: /phraseologie/
 **ATC: [  ], line-up runway _0 5_, cleared for take-off, wind XXX degrees, XX knots, report left hand downwind runway _0 5_.**
  
 **P**: Lining-up runway _0 5_, cleared for take-off, report left hand downwind runway _0 5_, [  ]
+</div>
+</div>
+</div>
+
+### IFR: Aligner et remonter la piste
+
+#### → Aligner
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], alignez-vous piste _04_ et attendez.**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], line up runway _04_ and wait.**
+</div>
+</div>
+</div>
+
+#### → Remonter et aligner
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], remontez piste _04_, alignez-vous et attendez.**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], backtrack runway _04_, line-up and wait.**
+</div>
+</div>
+</div>
+
+### Clairance IFR
+
+#### → Décollage
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], autorise décollage piste _04_, vent _050_ degrés, _10_ noeuds.**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], cleared for take-off runway _04_, wind _050_ degrees, _10_ knots.**
+</div>
+</div>
+</div>
+
+### Transférer appareil
+
+#### → Transférer au controleur suivant
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], contactez _Mérignac Approche_, _xxx.xxx_.**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], contact _Mérignac approach_, _xxx.xxx_.**
+</div>
+</div>
+</div>
+
+#### → Transférer Unicom
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], changement de fréquence approuvé. Auto-information sur Unicom 122.800**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], frequency change approved. Air-to-air frequency Unicom 122.800.**
+</div>
+</div>
+</div>
+
+### Atterrissage
+
+#### → Atterrir
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], autorise atterrissage piste _04_, vent _050_ degres _10_ noeuds .**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], cleared to land runway _04_, wind _050_ degrees _10_ knots.**
+</div>
+</div>
+</div>
+
+#### → Remise de gaz
+
+<div style="display: table; border-collapse: collapse; border:1px solid black; table-layout: fixed; width: 100%;">
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![FR](./assets/images/FR.png)
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+![EN](./assets/images/EN.png)
+</div>
+</div>
+<div style="display: table-row; border:1px solid black;">
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], remettez les gaz !**
+</div>
+<div style="display: table-cell; border:1px solid black; padding-left: 5px; padding-right: 5px;">
+**ATC: [  ], go around.**
 </div>
 </div>
 </div>
